@@ -1,0 +1,6 @@
+{
+    "tela-configs":{
+        "caption":"Snake Game",
+        "size":[400, 200]
+    }
+}
